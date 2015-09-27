@@ -36,8 +36,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome).
 ## Resources
 ### Websites
 - [Itamae](http://itamae.kitchen/)
+
 ### Articles
 - [クックパッドのサーバプロビジョニング事情](http://techlife.cookpad.com/entry/2015/05/12/080000) - in Japanese
+
 ### Presentations
 - [Itamae - Infra as Code 現状確認会](https://speakerdeck.com/ryotarai/itamae-infra-as-code-xian-zhuang-que-ren-hui) - in Japanese
 
