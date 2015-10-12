@@ -20,6 +20,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome).
 - [ros](https://github.com/DaikiMaekawa/itamae-plugin-recipe-ros) - [ROS](http://www.ros.org/)(Robot Operating System)
 
 ### Resources
+- [authorized_keys](https://github.com/nownabe/itamae-plugin-resource-authorized_keys)
 - [brew_tap](https://github.com/tacahilo/itamae-plugin-resource-brew_tap) - Homebrew tap
 - [cask](https://github.com/k0kubun/itamae-plugin-resource-cask) - Homebrew cask
 - [daemon_tools](https://github.com/sonots/itamae-plugin-resource-daemontools_service)
